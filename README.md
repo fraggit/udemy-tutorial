@@ -17,3 +17,6 @@ here is my conflicting change text
 
 ## sub-level
 a new sub-level, then mychanges on my feature branch 2
+
+### Copyright again
+
