@@ -6,4 +6,4 @@ another line
 work in progress
 
 finished to edit file
-
+more text
